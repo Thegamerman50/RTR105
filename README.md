@@ -2,8 +2,8 @@
 
 Datormācība (pamatkurss)
 **Class 01**
-****Formatēšana****
-***Tēmas***
+***Formatēšana***
+**Tēmas**
  - pirmā 
  - otrā
 
