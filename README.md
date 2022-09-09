@@ -1,7 +1,4 @@
 # RTR105
-Datormācība (pamatkurss)
-
-# RTR105
 
 Datormācība (pamatkurss)
 
