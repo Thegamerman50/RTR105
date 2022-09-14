@@ -24,13 +24,13 @@ Tēmas
 
 whoami - komanda parāda lietotājam, kāds lietotājs šobrīd ir ielogojies sistēmā
 
-who - 
+who - komanda parāda visus lietotājus, kas atrodas sistēmā
 
-exit - 
+exit - komanda aizver konsoli 
 
-last - 
+last - komanda parād pēdējos lietotājus, ka bija iegājuši sistēmā
 
-pwd - 
+pwd - komanda parāda, kurā direktorija šobrīd tiek veikta darbība
 
 man pwd - 
 
