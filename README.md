@@ -1,12 +1,17 @@
+
+
 # RTR105
 
-Datormācība (pamatkurss)
+
+
+***Datormācība (pamatkurss)***
+
 **Class 01**
-***Formatēšana***
-**Tēmas**
- - pirmā 
- - otrā
 
-![Links](https://stackedit.io/app#)
+*Fotmatēšana*
+Tēmas
+ 1. Pirmā 
+ 2. Otrā
+[Links](https://stackedit.io/app#)
 
-![Attēls](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+![Attēls](https://pbs.twimg.com/profile_images/948120716448321538/m5tBoQnS_400x400.jpg)
