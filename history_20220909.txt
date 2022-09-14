@@ -1,0 +1,63 @@
+    1  firefox 
+    2  chromium-browser 
+    3  firefox 
+    4  whoami
+    5  firefox
+    6  whoami
+    7  who
+    8  exit
+    9  last
+   10  pwd
+   11  man pwd
+   12  history
+   13  ls
+   14  ls
+   15  echo $0
+   16  sh
+   17  ls
+   18  echo bash
+   19  ls
+   20  ls -l
+   21  ls -a
+   22  las -al
+   23  ls -al
+   24  cd .
+   25  cd ..
+   26  ls -a
+   27  cs .
+   28  cd .
+   29  pwd
+   30  cd ..
+   31  ls -a
+   32  cd ~
+   33  pwd
+   34   cd ~
+   35  pwd
+   36  pwd
+   37  exit 
+   38  cd /home
+   39  cd user
+   40  cd /
+   41  ls -l
+   42  ls -l
+   43  /home/user
+   44  mkdir ABC
+   45  cd /
+   46  pwd
+   47  pwd 
+   48  cd/home/user
+   49  cd /home/user
+   50  pwd
+   51  mkdir ABC
+   52  ls -l
+   53  cd ABC/
+   54  ls
+   55  ls -la
+   56  echo "text"
+   57  eche "text" > a.txt
+   58  echo "text" > a.txt
+   59  pwd
+   60  cd `
+   61  cd ~
+   62  pwd
+   63  history > history_20220909.txt
