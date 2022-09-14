@@ -20,7 +20,7 @@ Tēmas
 
 **Class 02**
 
-*Ubuntu konsoles komandas un to skaidrojums*
+*Ubuntu konsoles komandas un to skaidrojums:*
 
 whoami - komanda parāda lietotājam, kāds lietotājs šobrīd ir ielogojies sistēmā
 
@@ -54,3 +54,12 @@ cd . -
 
 cd .. -
 
+cd /home - 
+
+mkdir - 
+
+cd / -
+
+echo "text" -
+
+history - 
