@@ -30,36 +30,18 @@ exit - komanda aizver konsoli
 
 last - komanda parād pēdējos lietotājus, ka bija iegājuši sistēmā
 
-pwd - komanda parāda, kurā direktorija šobrīd tiek veikta darbība
+pwd - komanda parāda, kurā direktorija šobrīd tiek veikta darbība (Pilnu direktorijas nosaukumu)
 
-man pwd - 
+man - komanda parāda lietotāja manuālu- komandas, kuras var palaist terminālā
 
-history - 
+history - komanda parāda visas izmantotās vai rakstītās komandas sesijas laikā
 
-ls - 
+ls - komanda izveido sarakstu ar failiem vai direktorijām
 
-echo $0 -
+echo $0 - komanda izvada tekošā procesa (komandas) nosaukumu
 
-echo bash - 
+cd - komanda ļauj nomainīt direktoriju, kurā strādā
 
 sh - 
 
-ls -l -
-
-ls -a -
-
-ls -al -
-
-cd . -
-
-cd .. -
-
-cd /home - 
-
-mkdir - 
-
-cd / -
-
-echo "text" -
-
-history - 
+mkdir - komanda izveido direktoriju
