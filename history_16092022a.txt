@@ -1,0 +1,34 @@
+    1  ls
+    2  ps
+    3  ps aux
+    4  man ps
+    5  ls -l
+    6  cd .
+    7  pwd
+    8  who
+    9  whoami
+   10  echo $0
+   11  uname
+   12  man uname
+   13  unmae -a
+   14  uname -a
+   15  git clone https://github.com/Thegamerman50/RTR105
+   16  ls -l
+   17  ls -lt
+   18  git clone https://github.com/Thegamerman50/RTR105 RTR105V2
+   19  ls -lt
+   20  rmdir RTR105V2
+   21  man rmdir
+   22  rmdir --ignore-fail-on-non-empty RTR105V2
+   23  rm RTR105V2
+   24  man rm
+   25  rm -rf RTR105V2
+   26  ls -lt
+   27  rm -rf RTR105
+   28  ls -lt
+   29  git clone https://github.com/Thegamerman50/RTR105
+   30  ls -lt
+   31  history
+   32  history > history_16092022a.txt
+---------------------
+===================== 
