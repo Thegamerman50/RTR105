@@ -41,7 +41,4 @@ ls - komanda izveido sarakstu ar failiem vai direktorijām
 echo $0 - komanda izvada tekošā procesa (komandas) nosaukumu
 
 cd - komanda ļauj nomainīt direktoriju, kurā strādā
-
-sh - 
-
 mkdir - komanda izveido direktoriju
