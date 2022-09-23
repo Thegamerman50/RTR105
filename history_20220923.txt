@@ -1,0 +1,61 @@
+    1  ls
+    2  whereis ls
+    3  pwd
+    4  ls -l /bin/ls
+    5  /bin$ cd /bin
+    6  /bin$ ls
+    7  cd /bin
+    8  ls
+    9  cd /ls
+   10  cd ls
+   11  cd
+   12  pwd
+   13  ls
+   14  whereis ls
+   15  ls -lt /bin/ls
+   16  cat /bin/ls
+   17  ls -lt /bin/ls
+   18  ls
+   19  whereis ls
+   20  hello-world
+   21  ls
+   22  nano hello-world
+   23  ls -lt
+   24  chmod 744 hello-world
+   25  ls -lt
+   26  hello-world
+   27  ./hello-world
+   28  pwd
+   29  cp hello-world  /bin/
+   30  whereis ls
+   31  echo $PATH
+   32  PATH=$PATH 
+   33  echo $PATH
+   34  PATH=$PATH:/home/user:~:.
+   35  echo $PATH
+   36  hello-world 
+   37  history
+   38  git clone https://github.com/Thegamerman50/RTR105
+   39  ls -lt
+   40  mv hello-world RTR105/
+   41  ls -lt
+   42  pwd
+   43  cd RTR105
+   44  pwd
+   45  ls -lt
+   46  ls -lt
+   47  nano
+   48  nano git-upload
+   49  nano git-upload
+   50  ls -lt
+   51  chmod 744 git-upload 
+   52  history > history 20220923.txt
+   53  ls -lt
+   54  history > history 20220923.txt
+   55  ls -lt
+   56  git-upload
+   57  ls -lt
+   58  history > history 20220923.txt
+   59  ls -lt
+   60  rm history
+   61  history > history_20220923.txt
