@@ -118,3 +118,13 @@
   118  nano git-upload 
   119  history
   120  history > history_20220923.txt
+  121  ls -lt
+  122  git-upload 05
+  123  man sh
+  124  ls
+  125  echo $?
+  126  pwd
+  127  echo $PATH
+  128  hello-world ./hello-world 
+  129  ls -lt
+  130  history > history_20220923.txt 
