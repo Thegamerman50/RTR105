@@ -59,3 +59,62 @@
    59  ls -lt
    60  rm history
    61  history > history_20220923.txt
+   62  ls -lt
+   63  ./git-upload 
+   64  nano git-upload
+   65  git-upload 
+   66  cd
+   67  pwd
+   68  ls -lt
+   69  helo-world
+   70  pwd
+   71  rm -rf RTR105/
+   72  ls -lt
+   73  git clone https://github.com/Thegamerman50/RTR105
+   74  cd RTR105/
+   75  pwd
+   76  cd
+   77  pwd
+   78  ls lt
+   79  ls - lt
+   80  ls -lt
+   81  cd RTR105/
+   82  pwd
+   83  ls -lt
+   84  nano git-upload 
+   85  pwd
+   86  ls -lt
+   87  nano linux_special_variables_test.sh
+   88  ls
+   89  ls -lt
+   90  chmode 744 linux_special_variables_test.sh 
+   91  chmod 744 linux_special_variables_test.sh 
+   92  ls -lt
+   93  linux_special_variables_test.sh 
+   94  nano linux_special_variables_test.sh 
+   95  nano linux_special_variables_test.sh 
+   96  nano linux_special_variables_test.sh 
+   97   linux_special_variables_test.sh 
+   98   linux_special_variables_test.sh 
+   99  nano linux_special_variables_test.sh 
+  100  nano linux_special_variables_test.sh 
+  101   linux_special_variables_test.sh 
+  102  nano linux_special_variables_test.sh 
+  103  nano linux_special_variables_test.sh 
+  104  nano linux_special_variables_test.sh 
+  105   linux_special_variables_test.sh 
+  106  mv linux_special_variables_test.sh test.sh
+  107  ls -lt 
+  108  nano test.sh 
+  109  mv test.sh linux_special_variables_test.sh
+  110  ls -lt 
+  111  ls -lt 
+  112   linux_special_variables_test.sh
+  113   linux_special_variables_test.sh arg1 arg 2
+  114   linux_special_variables_test.sh arg1 arg2 arg3
+  115  ls -lt
+  116  linux_special_variables_test.sh arg1 arg2
+  117  nano git-upload 
+  118  nano git-upload 
+  119  history
+  120  history > history_20220923.txt
