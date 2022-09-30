@@ -1,0 +1,69 @@
+    1  ls -lt
+    2  git clone https://github.com/Thegamerman50/RTR105
+    3  ls
+    4  cd  RTR105/
+    5  ls -lt
+    6  mkdir Class_06
+    7  ls -lt
+    8  cd Class_06/
+    9  ls -lt ../
+   10  cat ../hello-world 
+   11  cat ../git-upload 
+   12  whereis ls
+   13  nano first.c
+   14  ls -lt
+   15  cat first.c 
+   16  gcc first.c 
+   17  ls -lt
+   18  cat a.out 
+   19  ls -lt
+   20  echp $PATH
+   21  echo $PATH
+   22  /home/user/RTR105/Class_06/a.out 
+   23  ~/RTR105/Class_06/a.out 
+   24  ./a.out 
+   25  cat first.c 
+   26  gcc first.c -o firts.out
+   27  ls -lt
+   28  ./firts.out 
+   29  cd..
+   30  cd ..
+   31  pwd
+   32  ls -lta
+   33  nano .gitignore
+   34  cd Class_06/
+   35  ls -lt
+   36  nano first.c
+   37  gcc -save-temps first.c -o first.out
+   38  ls -lt
+   39  car first.c
+   40  cat first.c
+   41  cat first.i
+   42  cat first.s
+   43  cat first.o
+   44  ls -lt
+   45  echo $?
+   46  nano first.c
+   47  nano first.c
+   48  gcc -save-temps first.c -o first.out
+   49  nano first.c
+   50  nano first.c
+   51  gcc -save-temps first.c -o first.out
+   52  ./first.out 
+   53  echo $?
+   54  nano first.c
+   55  ls- lt
+   56  ls -lt
+   57  cat first.c
+   58  cd ..
+   59  pwd
+   60   ls -lt
+   61  cd Class_06/
+   62  gcc -save-temps first.c -o first.out
+   63  cat first.c
+   64  cs ..
+   65  cd ..
+   66  ls -lt
+   67  nano .gitignore 
+   68  cat .gitignore 
+   69  history > history_20220930.txt
