@@ -46,4 +46,4 @@ mkdir - komanda izveido direktoriju
 
 **Class 06**
 
-Šajā nodarbībā iemācījos pārveidot failu par izpildāmo failu, kā arī pārveidot failu par datoram saprotamu kode.
+Šajā nodarbībā iemācījos pārveidot failu par izpildāmo failu, kā arī pārveidot failu par datoram saprotamu kodu.
