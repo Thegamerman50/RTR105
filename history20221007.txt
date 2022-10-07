@@ -1,0 +1,41 @@
+    1  nano
+    2  ls
+    3  ls -lt
+    4  pwd
+    5  cd
+    6  pwd
+    7  nano
+    8  nano
+    9  echo "dad\dadaeqw123123\3123123\54dasdq\eqwe"
+   10  echo -e "dad\dadaeqw123123\3123123\54dasdq\eqwe"
+   11  echo -e "012345\n6789\tabcde\vfghijk\blmnop\rqr"
+   12  gitupload https://github.com/Thegamerman50/RTR105
+   13  git clone https://github.com/Thegamerman50/RTR105
+   14  cd RTR105/
+   15  pwd
+   16  mkdir Class_08
+   17  pwd Class_0
+   18  pwd Class_08
+   19  cd Class_08
+   20  pwd
+   21  nano
+   22  ls -lt
+   23  pwd
+   24  nano calss_08_scanf_test.t
+   25  cat class_08_scanf_test.t
+   26  ls -lt
+   27  ls -lt
+   28  man gcc
+   29  gcc class_08_printf_test.c -o printf_test.out
+   30  cat class_08_printf_test.c 
+   31  gcc class_08_scanf_test.c -o scanf_test.out
+   32  gcc class_08_scanf_test.c -o scanf_test.out
+   33  cat class_08_scanf_test.c 
+   34  ./printf_test.out 
+   35  cat scanf_test.out 
+   36  cat class_08_printf_test.c 
+   37  ./printf_test.out 
+   38  nano class_08_printf_test.c 
+   39  ./scanf_test.out 
+   40  cd ..
+   41  history > history20221007.txt
