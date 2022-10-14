@@ -1,0 +1,53 @@
+    1  git clone https://github.com/Thegamerman50/RTR105
+    2  cs RTR105/
+    3  cd RTR105/
+    4  pwd
+    5  mkdir Class_09$
+    6  ls -lt
+    7  cs Class_09
+    8  cd Class_09
+    9  cd Class_09/cd Class_09/
+   10  pwd
+   11  cd Class_09/
+   12  ls -lt
+   13  remove Class_09$
+   14  cd Class_09
+   15  pwd
+   16  nano char_data_type_tests.c
+   17  nano char_data_type_tests.c
+   18  nano char_data_type_tests.c
+   19  nano char_data_type_tests.c
+   20  gcc char_data_type_tests.c 
+   21  gcc char_data_type_tests.c 
+   22  nano char_data_type_tests.c
+   23  gcc char_data_type_tests.c 
+   24  ./a.out
+   25  pwd
+   26  ls -lt
+   27  nano char_data_type_tests.c
+   28  ./a.out
+   29  gcc char_data_type_tests.c 
+   30  ./a.out
+   31  nano char_data_type_tests.c
+   32  gcc char_data_type_tests.c 
+   33  ./a.out
+   34  nano char_data_type_tests.c
+   35  nano char_data_type_tests.c
+   36  nano char_data_type_tests.c
+   37  nano char_data_type_tests.c
+   38  gcc char_data_type_tests.c 
+   39  ./a.out
+   40  nano char_data_type_tests.c
+   41  gcc char_data_type_tests.c 
+   42  ./a.out
+   43  nano char_data_type_tests.c
+   44  gcc char_data_type_tests.c 
+   45  ./a.out
+   46  nano char_data_type_tests.c
+   47  gcc char_data_type_tests.c 
+   48  ./a.out
+   49  nano char_data_type_tests.c
+   50  pwd
+   51  cd ..
+   52  pwd
+   53  history > history_20221414.txt
