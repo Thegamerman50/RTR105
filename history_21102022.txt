@@ -1,0 +1,71 @@
+    1  git clone https://github.com/Thegamerman50/RTR105
+    2  cd ..
+    3  pwd
+    4  cd ..
+    5  pwd
+    6  cd RTR105/
+    7  mkdir Class_10
+    8  cd Class_10
+    9  nano operations_test.c
+   10  gcc operations_test.c 
+   11  nano operations_test.c 
+   12  nano operations_test.c 
+   13  gcc operations_test.c 
+   14  nano operations_test.c 
+   15  gcc operations_test.c 
+   16  ./a.out 
+   17  nano operations_test.c 
+   18  nano operations_test.c 
+   19  gcc operations_test.c 
+   20  nano operations_test.c 
+   21  gcc operations_test.c 
+   22  nano operations_test.c 
+   23  gcc operations_test.c 
+   24  nano operations_test.c 
+   25  gcc operations_test.c 
+   26  ./a.out 
+   27  nano operations_test.c 
+   28  gcc operations_test.c 
+   29  ./a.out 
+   30  nano operations_test.c 
+   31  gcc operations_test.c 
+   32  ./a.out 
+   33  nano operations_test.c 
+   34  gcc operations_test.c 
+   35  ./a.out 
+   36  nano operations_test.c 
+   37  gcc operations_test.c 
+   38  ./a.out 
+   39  nano operations_test.c 
+   40  gcc operations_test.c 
+   41  ./a.out 
+   42  nano operations_test.c 
+   43  gcc operations_test.c 
+   44  ./a.out 
+   45  nano operations_test.c 
+   46  gcc operations_test.c 
+   47  ./a.out 
+   48  nano operations_test.c 
+   49  gcc operations_test.c 
+   50  ./a.out 
+   51  nano operations_test.c 
+   52  gcc operations_test.c 
+   53  nano operations_test.c 
+   54  gcc operations_test.c 
+   55  ./a.out 
+   56  cd ..
+   57  mkdir Class_11
+   58  cd Class_11
+   59  nano if_test.c
+   60  gcc if_test.c 
+   61  nano if_test.c
+   62  nano if_test.c
+   63  nano if_test.c
+   64  gcc if_test.c 
+   65  nano if_test.c
+   66  gcc if_test.c 
+   67  ./a.out 
+   68  ./a.out 
+   69  ./a.out 
+   70  cd ..
+   71  history > history_20222110.txt
