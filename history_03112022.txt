@@ -1,0 +1,90 @@
+    1  git clone https://github.com/Thegamerman50/RTR105
+    2  cd RTR105/
+    3  pwd
+    4  mkdir Class_13
+    5  cd Class_13
+    6  pwd
+    7  nano user_functions_tests.c
+    8  gcc user_functions_tests.c 
+    9  ./a.out 
+   10  nano user_functions_tests.c 
+   11  nano user_functions_tests.c 
+   12  gcc user_functions_tests.c 
+   13  nano user_functions_tests.c 
+   14  gcc user_functions_tests.c 
+   15  ./a.out 
+   16  nano user_functions_tests.c 
+   17  gcc user_functions_tests.c 
+   18  ./a.out 
+   19  nano user_functions_tests.c 
+   20  gcc user_functions_tests.c 
+   21  nano user_functions_tests.c 
+   22  gcc user_functions_tests.c 
+   23  nano user_functions_tests.c 
+   24  gcc user_functions_tests.c 
+   25  nano user_functions_tests.c 
+   26  gcc user_functions_tests.c 
+   27  ./a.out 
+   28  nano user_functions_tests.c 
+   29  gcc user_functions_tests.c 
+   30  nano user_functions_tests.c 
+   31  gcc user_functions_tests.c 
+   32  nano user_functions_tests.c 
+   33  nano user_functions_tests.c 
+   34  gcc user_functions_tests.c 
+   35  ./a.out 
+   36  ./a.out 
+   37  ./a.out 
+   38  nano user_functions_tests.c 
+   39  nano user_functions_tests.c 
+   40  cp user_functions_tests.c user_functions_tests_better_style.c
+   41  ls -lt
+   42  nano user_functions_tests_better_style.c 
+   43  nano user_functions_tests_better_style.c 
+   44  nano user_functions_tests_better_style.c 
+   45  gcc user_functions_tests_better_style.c 
+   46  nano user_functions_tests_better_style.c 
+   47  gcc user_functions_tests_better_style.c 
+   48  nano user_functions_tests_better_style.c 
+   49  gcc user_functions_tests_better_style.c 
+   50  gcc user_functions_tests_better_style.c 
+   51  nano user_functions_tests_better_style.c 
+   52  gcc user_functions_tests_better_style.c 
+   53  nano user_functions_tests_better_style.c 
+   54  gcc user_functions_tests_better_style.c 
+   55  nano user_functions_tests_better_style.c 
+   56  gcc user_functions_tests_better_style.c 
+   57  gcc user_functions_tests_better_style.c 
+   58  nano user_functions_tests_better_style.c 
+   59  gcc user_functions_tests_better_style.c 
+   60  ./a.out 
+   61  nano user_functions_tests_better_style.c 
+   62  gcc -g user_functions_tests_better_style.c 
+   63  ls -lt
+   64  ./a.out 
+   65  nano a.out 
+   66   ls -lt
+   67  nano main.c
+   68  nano foo.h
+   69  gcc main.c
+   70  gcc foo.h 
+   71  nano foo.c
+   72  nano foo.h
+   73  ls -lt
+   74  gcc -Wall -c main.c
+   75  ls -lt
+   76  gcc -Wall -c foo.c
+   77  ls -lt
+   78  gcc -o result.out main.o foo.o
+   79  ls -lt
+   80  ./result.out 
+   81  ...
+   82  nano main_with_arguments.c
+   83  gcc main_with_arguments.c 
+   84  ./a.out 
+   85  pwd
+   86  cd RTR105/
+   87  cd ..
+   88  pwd
+   89  ls -lt
+   90  history > history_03112022.txt
