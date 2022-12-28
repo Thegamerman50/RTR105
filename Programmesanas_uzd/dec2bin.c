@@ -5,10 +5,10 @@ long long convert(int);
 
 int main() {
   int n, bin;
-  printf("Enter a decimal number: ");
+  printf("Lūdzu ievadiet decimālu skaitli!: ");
   scanf("%d", &n);
   bin = convert(n);
-  printf("%d in binary =  %lld in binary", n, bin);
+  printf("%d decimālajā =  %lld binārajā", n, bin);
   return 0;
 }
 
