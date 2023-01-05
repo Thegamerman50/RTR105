@@ -9,11 +9,11 @@ void main(){
       int i = 0;
       
       printf("\n");
-      printf("Lūdzu ievadiet skatli: "); 
+      printf("Lūdzu ievadiet skatli: "); // Tiek ievadīts arguments x
       scanf("%lf",&x);
  
   y = cos(x/2);
-  printf("cos(%lf/2) = %lf \n",x,y);
+  printf("cos(%lf/2) = %lf \n",x,y);  // Tiek aprēķināta funkcijas vērtība ar ievadīto argumentu
  
   S = a;
   a = 1.L;
